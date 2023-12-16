@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1702743775 source:c:\users\onesp\documents\kuliah\c++\tubes_gojek\driver.cpp
+	"gojek.h"
+	<iostream>
+
+1702744020 c:\users\onesp\documents\kuliah\c++\tubes_gojek\gojek.h
+	<iostream>
+
+1702743781 source:c:\users\onesp\documents\kuliah\c++\tubes_gojek\main.cpp
+	"gojek.h"
+	<iostream>
+
+1702743767 source:c:\users\onesp\documents\kuliah\c++\tubes_gojek\menu.cpp
+	"gojek.h"
+	<iostream>
+

@@ -8,7 +8,6 @@ char mainMenu() {
   cout << "|           Welcome to Gojek            |" << endl;
   cout << "=========================================" << endl;
   cout << "| 1. Yulia Adinda Yuda                  |" << endl;
-  cout << "| 2. Naira Fayaza                       |" << endl;
   cout << "=========================================" << endl;
   cout << "| [1] Driver                            |" << endl;
   cout << "| [2] Customer                          |" << endl;
